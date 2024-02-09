@@ -1,0 +1,10 @@
+header, footer {
+  background-color: rgb(184, 184, 209);
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 5px 10px;
+}
